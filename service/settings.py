@@ -36,6 +36,7 @@ X_FRAME_OPTIONS = 'DENY'
 
 INSTALLED_APPS = [
     'django.contrib.admin',
+    'adminsortable2',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
