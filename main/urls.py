@@ -1,6 +1,6 @@
 from django.urls import path
 from .views import CatalogView, PerfumeDetailView, HomeView, about
-from .context_processor import search_results
+from .context_processors import search_results
 
 app_name = 'main'
 
